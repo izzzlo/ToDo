@@ -20,7 +20,7 @@ class ToDoTableViewController: UITableViewController {
 func createToDos() -> [ToDo] {
 
   let learn = ToDo()
-  learn.name = "learn"
+  learn.name = "learning"
   learn.important = true
     
   let play = ToDo()
